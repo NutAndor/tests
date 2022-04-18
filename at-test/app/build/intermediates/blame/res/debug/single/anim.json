@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\anim\\showcombatbar.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\anim\\showcombatbar.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hidemonsterconditionbutton.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\anim\\hidemonsterconditionbutton.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scalebeat.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\anim\\scalebeat.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scaleup.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\anim\\scaleup.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hidemonsterconditionbar.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\anim\\hidemonsterconditionbar.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scaledown.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\anim\\scaledown.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\anim\\showmonsterconditionbar.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\anim\\showmonsterconditionbar.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\anim\\showmonsterconditionbutton.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\anim\\showmonsterconditionbutton.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hidecombatbar.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\anim\\hidecombatbar.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hidetoolbox.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\anim\\hidetoolbox.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\anim\\showtoolbox.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\anim\\showtoolbox.xml"
+    }
+]

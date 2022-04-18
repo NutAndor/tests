@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\ts_sky_gradient_x6.png",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\drawable-nodpi\\ts_sky_gradient_x6.png"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\ts_foreground.png",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\drawable-nodpi\\ts_foreground.png"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\ts_clouds_s_03.png",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\drawable-nodpi\\ts_clouds_s_03.png"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\ts_clouds_s_02.png",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\drawable-nodpi\\ts_clouds_s_02.png"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\ts_clouds_l_04.png",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\drawable-nodpi\\ts_clouds_l_04.png"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\ts_clouds_s_01.png",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\drawable-nodpi\\ts_clouds_s_01.png"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\ts_midground.png",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\drawable-nodpi\\ts_midground.png"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\ts_clouds_m_02.png",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\drawable-nodpi\\ts_clouds_m_02.png"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\ts_clouds_l_02.png",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\drawable-nodpi\\ts_clouds_l_02.png"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\ts_background.png",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\drawable-nodpi\\ts_background.png"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\ts_clouds_l_01.png",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\drawable-nodpi\\ts_clouds_l_01.png"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\ts_clouds_m_01.png",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\drawable-nodpi\\ts_clouds_m_01.png"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\ts_clouds_l_03.png",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\drawable-nodpi\\ts_clouds_l_03.png"
+    }
+]

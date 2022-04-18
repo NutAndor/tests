@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\AT\\at-test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 9,
+                    "endOffset": 293
+                },
+                "from": {
+                    "file": "C:\\AT\\at-test\\app\\src\\main\\res\\values-v17\\ui_styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 60,
+                        "endLine": 6,
+                        "endColumn": 9,
+                        "endOffset": 301
+                    }
+                }
+            }
+        ]
+    }
+]

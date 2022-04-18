@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\chris\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\AT\at-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_61373f7a55b212ac1ee5dda3cdb1e1bfff0bcc2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\AT\at-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-26.0.0-alpha1_59374f897c8beaadca37bf844878abb62c28f4cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\AT\at-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-26.0.0-alpha1_ad055c9b9db6d56707744a41e7cbb8caf1a59e9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\AT\at-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-26.0.0-alpha1_7bd6907f67bdf36adad54c692f77a7480f87f256\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\AT\at-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-26.0.0-alpha1_a4aad96539b61818b1a9bb2b32ab4d823b7618e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\AT\at-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-26.0.0-alpha1_0b17bf713dc23edb42cc0c36dfd71367dff8fd91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AT\at-test\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f225704dff409bf8a5a24f380861d316a949af6f">
+        <dex dex="C:\AT\at-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5f39537cfa62d31c36a0491a3ecd6df69b8edc42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\AT\at-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-26.0.0-alpha1_73bc79ace132dcd64085af54b98cd69f5a41deb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AT\at-test\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="51fe17a06b77ea3acb41a15850ad374bf30e9634">
+        <dex dex="C:\AT\at-test\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9a67a9d5df380978003eb7915f9d8d9aa4f9f59d\classes.dex" />
+    </item>
+
+</items>

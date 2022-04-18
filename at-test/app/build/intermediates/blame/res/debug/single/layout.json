@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\conversation.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\conversation.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\itemeffectview.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\itemeffectview.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\itemeffectview_onhitreceived.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\itemeffectview_onhitreceived.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inventoryitemview.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\inventoryitemview.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\skill_info_view.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\skill_info_view.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_menu_layout.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\custom_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\heroinfo_stats.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\heroinfo_stats.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abilitymodifierview.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\abilitymodifierview.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\iteminfo.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\iteminfo.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabbedlayout.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\tabbedlayout.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\startscreen.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\startscreen.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_bg_sky_layout.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\title_bg_sky_layout.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\combatlog_row.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\combatlog_row.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolboxview.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\toolboxview.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rangebar.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\rangebar.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\monsterinfo.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\monsterinfo.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quickbuttons_usable_inventory.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\quickbuttons_usable_inventory.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actorconditionitemview.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\actorconditionitemview.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_menu_item_separator_layout.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\custom_menu_item_separator_layout.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\questlog.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\questlog.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\startscreen_newgame.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\startscreen_newgame.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_checkedlistitem_layout.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\custom_checkedlistitem_layout.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\statusview.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\statusview.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\conversation_statement.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\conversation_statement.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\heroinfo_equipped.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\heroinfo_equipped.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabindicator.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\tabindicator.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\heroinfo_statsicons.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\heroinfo_statsicons.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bulkselection.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\bulkselection.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\itemeffectview_onuse.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\itemeffectview_onuse.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\monsterencounter.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\monsterencounter.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\levelup.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\levelup.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\startscreen_mainmenu.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\startscreen_mainmenu.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\heroinfo_stats_gamestats.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\heroinfo_stats_gamestats.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\heroinfo_skill_list.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\heroinfo_skill_list.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_menu_item_layout.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\custom_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\questlogentry.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\questlogentry.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\skill_listentry_view.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\skill_listentry_view.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shoplist.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\shoplist.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_bg_layout.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\title_bg_layout.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_menu_submenu_layout.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\custom_menu_submenu_layout.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shopitemview.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\shopitemview.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\save_preview.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\save_preview.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loadsave.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\loadsave.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\displayworldmap.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\displayworldmap.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\combatview.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\combatview.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\traitsinfoview.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\traitsinfoview.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\clouds_animator.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\clouds_animator.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actorconditioninfo.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\actorconditioninfo.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog_title_icon.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\custom_dialog_title_icon.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\heroinfo_inventory.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\heroinfo_inventory.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout\\itemeffectview_ondeath.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout\\itemeffectview_ondeath.xml"
+    }
+]

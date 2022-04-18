@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ui_dpad.png",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\drawable-xhdpi\\ui_dpad.png"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon.png",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    }
+]

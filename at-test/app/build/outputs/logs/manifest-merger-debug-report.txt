@@ -1,0 +1,210 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:3:1-78:12
+	package
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:5:2-40
+		INJECTED from C:\AT\at-test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AT\at-test\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:7:2-33
+		INJECTED from C:\AT\at-test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AT\at-test\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:6:2-26
+		INJECTED from C:\AT\at-test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AT\at-test\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:4:2-60
+	android:installLocation
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:8:2-32
+uses-sdk
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:10:2-13:5
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\AndroidManifest.xml:21:5-23:60
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:12:3-32
+		INJECTED from C:\AT\at-test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AT\at-test\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:11:3-29
+		INJECTED from C:\AT\at-test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AT\at-test\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:15:2-21:5
+	android:largeScreens
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:18:3-30
+	android:smallScreens
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:16:3-30
+	android:normalScreens
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:17:3-31
+	android:xlargeScreens
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:19:3-31
+	android:anyDensity
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:20:3-28
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:23:2-77
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:23:19-75
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:24:2-77
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:24:19-74
+application
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:27:2-76:16
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\AndroidManifest.xml:29:5-20
+	android:requestLegacyExternalStorage
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:34:3-46
+	android:label
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:29:3-35
+	android:allowBackup
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:32:9-35
+	android:icon
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:30:3-32
+	android:description
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:31:3-48
+	android:theme
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:33:9-53
+	android:hasFragileUserData
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:35:3-36
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:28:3-69
+activity#com.gpl.rpg.AndorsTrail_beta.activity.StartScreenActivity
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:37:3-45:14
+	android:clearTaskOnLaunch
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:39:7-39
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:38:7-79
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:41:4-44:20
+action#android.intent.action.MAIN
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:42:5-57
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:42:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:43:5-65
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:43:15-62
+activity#com.gpl.rpg.AndorsTrail_beta.activity.MainActivity
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:46:6-50:6
+	android:label
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:48:4-36
+	android:theme
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:49:4-61
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:47:4-69
+activity#com.gpl.rpg.AndorsTrail_beta.activity.HeroinfoActivity
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:51:3-85
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:51:13-82
+activity#com.gpl.rpg.AndorsTrail_beta.activity.MonsterInfoActivity
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:52:3-139
+	android:theme
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:52:86-136
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:52:13-85
+activity#com.gpl.rpg.AndorsTrail_beta.activity.ItemInfoActivity
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:53:3-136
+	android:theme
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:53:83-133
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:53:13-82
+activity#com.gpl.rpg.AndorsTrail_beta.activity.LevelUpActivity
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:54:3-135
+	android:theme
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:54:82-132
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:54:13-81
+activity#com.gpl.rpg.AndorsTrail_beta.activity.MonsterEncounterActivity
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:55:3-144
+	android:theme
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:55:91-141
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:55:13-90
+activity#com.gpl.rpg.AndorsTrail_beta.activity.ConversationActivity
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:56:3-140
+	android:theme
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:56:87-137
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:56:13-86
+activity#com.gpl.rpg.AndorsTrail_beta.activity.ShopActivity
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:57:3-81
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:57:13-78
+activity#com.gpl.rpg.AndorsTrail_beta.activity.AboutActivity
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:58:3-82
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:58:13-79
+activity#com.gpl.rpg.AndorsTrail_beta.activity.LoadingActivity
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:59:3-84
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:59:13-81
+activity#com.gpl.rpg.AndorsTrail_beta.activity.Preferences
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:60:3-80
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:60:13-77
+activity#com.gpl.rpg.AndorsTrail_beta.activity.LoadSaveActivity
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:61:3-136
+	android:theme
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:61:83-133
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:61:13-82
+activity#com.gpl.rpg.AndorsTrail_beta.activity.ActorConditionInfoActivity
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:62:3-146
+	android:theme
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:62:93-143
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:62:13-92
+activity#com.gpl.rpg.AndorsTrail_beta.activity.BulkSelectionInterface
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:63:3-142
+	android:theme
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:63:89-139
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:63:13-88
+activity#com.gpl.rpg.AndorsTrail_beta.activity.SkillInfoActivity
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:64:3-137
+	android:theme
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:64:84-134
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:64:13-83
+activity#com.gpl.rpg.AndorsTrail_beta.activity.DisplayWorldMapActivity
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:65:3-92
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:65:13-89
+provider#android.support.v4.content.FileProvider
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:67:9-75:14
+	android:authorities
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:69:9-72
+	android:grantUriPermissions
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:70:9-43
+	android:exported
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:71:9-33
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:68:9-63
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:72:9-74:52
+	android:resource
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:74:13-49
+	android:name
+		ADDED from C:\AT\at-test\app\src\main\AndroidManifest.xml:73:13-63
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.0.0-alpha1] C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] C:\AT\at-test\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\AndroidManifest.xml:26:9-47

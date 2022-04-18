@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\startscreen.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout-land\\startscreen.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\title_bg_layout.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout-land\\title_bg_layout.xml"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\heroinfo_inventory.xml",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\layout-land\\heroinfo_inventory.xml"
+    }
+]

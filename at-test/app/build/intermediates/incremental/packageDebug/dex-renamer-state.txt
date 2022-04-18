@@ -1,0 +1,7 @@
+#Mon Apr 18 18:17:04 CEST 2022
+base.0=C\:\\AT\\at-test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5f39537cfa62d31c36a0491a3ecd6df69b8edc42
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\AT\\at-test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9a67a9d5df380978003eb7915f9d8d9aa4f9f59d\\classes.dex
+base.1=C\:\\AT\\at-test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9a67a9d5df380978003eb7915f9d8d9aa4f9f59d
+file.0=C\:\\AT\\at-test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5f39537cfa62d31c36a0491a3ecd6df69b8edc42\\classes.dex

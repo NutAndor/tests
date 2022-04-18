@@ -1,0 +1,1446 @@
+[
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_ingus.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_ingus.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_hadracor.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_hadracor.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_fallhaven_gaela.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_fallhaven_gaela.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_fallhaven_nocmar.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_fallhaven_nocmar.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_remgard_villagers1.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_remgard_villagers1.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_v070signs2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_v070signs2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_fallhaven_drunk.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_fallhaven_drunk.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_lodar.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_lodar.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_v069_npcs.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_v069_npcs.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_omi2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_omi2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_mikhail.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_mikhail.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_tinlyn_sheep.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_tinlyn_sheep.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_lodarmobs.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_lodarmobs.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_ogam.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_ogam.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_v0611_2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_v0611_2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_shortcut_lodar.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_shortcut_lodar.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_brimhaven_blackjack_game.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_brimhaven_blackjack_game.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\actorconditions_v069_bwm.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\actorconditions_v069_bwm.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_gison.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_gison.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_tiqui.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_tiqui.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_graveyard1.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_graveyard1.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_benbyr.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_benbyr.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\actorconditions_v0612_2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\actorconditions_v0612_2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_bwm_agent_1.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_bwm_agent_1.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_v070_quest.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_v070_quest.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_v0611_monsters1.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_v0611_monsters1.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\actorconditions_fungi_panic.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\actorconditions_fungi_panic.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_guynmart.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_guynmart.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_omi2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_omi2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_crossglen.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_crossglen.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\actorconditions_brimhaven.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\actorconditions_brimhaven.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_erinith.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_erinith.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_blackwater_throdna.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_blackwater_throdna.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_prim_arghest.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_prim_arghest.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_glasforn_fixes.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_glasforn_fixes.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_guynmart2_npc.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_guynmart2_npc.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_farrik.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_farrik.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_brimhaven2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_brimhaven2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_gison.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_gison.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_bugfix_0_7_4.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_bugfix_0_7_4.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_arghes.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_arghes.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_oluag.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_oluag.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_fallhaven_south.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_fallhaven_south.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_v0611_1.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_v0611_1.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_v0610.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_v0610.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_arulir_mountain.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_arulir_mountain.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_loneford_3.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_loneford_3.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_v0611_npcs.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_v0611_npcs.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemcategories_omicronrg9.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemcategories_omicronrg9.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_prim_guthbered.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_prim_guthbered.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_v0610_npcs1.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_v0610_npcs1.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_v0611_npcs1.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_v0611_npcs1.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_omicronrg9.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_omicronrg9.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_crossglen_leonid.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_crossglen_leonid.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_elwyl.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_elwyl.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_omi2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_omi2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_v0611_monsters.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_v0611_monsters.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_guynmart_npc.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_guynmart_npc.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_graveyard1.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_graveyard1.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_v068.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_v068.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_nondisplayed.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_nondisplayed.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_debug.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_debug.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_ailshara.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_ailshara.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_kaverin.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_kaverin.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_v070_lodar.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_v070_lodar.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_crossroads_1.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_crossroads_1.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_guynmart.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_guynmart.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_charwood1.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_charwood1.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_v0610_npcs.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_v0610_npcs.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\actorconditions_graveyard1.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\actorconditions_graveyard1.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_crossglen_animals.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_crossglen_animals.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_stoutford_combined.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_stoutford_combined.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_stoutford.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_stoutford.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_v0611_npcs2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_v0611_npcs2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_gandoren.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_gandoren.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_burhczyd.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_burhczyd.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_loneford_4.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_loneford_4.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_delivery.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_delivery.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_prim_fulus.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_prim_fulus.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_vilegard_erttu.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_vilegard_erttu.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_crossglen_outside.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_crossglen_outside.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_thoronir_faction_check.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_thoronir_faction_check.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_sign_ulirfendor.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_sign_ulirfendor.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_mazeg.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_mazeg.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_brimhaven.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_brimhaven.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_v0611_shops.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_v0611_shops.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_rothses.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_rothses.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_omi2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_omi2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_arulir_mountain.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_arulir_mountain.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_crossglen.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_crossglen.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_fallhaven_vacor.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_fallhaven_vacor.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_shortcut_lodar.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_shortcut_lodar.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_buceth.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_buceth.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_foamingflask.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_foamingflask.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\actorconditions_debug.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\actorconditions_debug.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_bwm_agent_5.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_bwm_agent_5.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_v070_lodar1cave.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_v070_lodar1cave.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_halvor_surprise.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_halvor_surprise.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_pathway_fallhaven.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_pathway_fallhaven.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_jolnor.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_jolnor.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_lodar0g.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_lodar0g.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_guynmart.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_guynmart.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_highwayman1.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_highwayman1.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_unzel2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_unzel2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_fallhaven_potions.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_fallhaven_potions.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_potions.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_potions.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_v0611_3.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_v0611_3.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_charwood2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_charwood2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\actorconditions_omicronrg9.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\actorconditions_omicronrg9.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_omi2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_omi2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_brimhaven_2b.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_brimhaven_2b.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_v0610_2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_v0610_2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_hirazinn.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_hirazinn.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_pwcave.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_pwcave.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_bugfix_0_7_4.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_bugfix_0_7_4.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_stoutford_combined.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_stoutford_combined.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_gison.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_gison.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_v070_lowyna.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_v070_lowyna.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_stoutford_combined.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_stoutford_combined.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_kendelow.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_kendelow.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_blackwater_signs.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_blackwater_signs.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_v0612graves.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_v0612graves.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_food.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_food.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_brimhaven2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_brimhaven2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_v0611_3.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_v0611_3.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_crossglen_gruil.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_crossglen_gruil.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_gorwath.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_gorwath.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_lodarfg4.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_lodarfg4.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_brimhaven_2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_brimhaven_2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_rings.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_rings.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_bugfix_0_7_4.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_bugfix_0_7_4.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_omicronrg9.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_omicronrg9.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_gorwath.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_gorwath.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_graveyard1.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_graveyard1.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_gison.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_gison.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\actorconditions_v070.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\actorconditions_v070.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_v069.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_v069.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_prim_outside.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_prim_outside.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_stoutford.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_stoutford.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_pre0610_unused.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_pre0610_unused.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_brimhaven_blackjack.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_brimhaven_blackjack.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_blackwater_harlenn.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_blackwater_harlenn.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_armour.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_armour.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_omicronrg9.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_omicronrg9.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_v070_charwood2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_v070_charwood2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_minarra.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_minarra.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_v070_questitems.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_v070_questitems.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_v068_npcs.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_v068_npcs.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_remgard_idolsigns.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_remgard_idolsigns.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_lodarfg3.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_lodarfg3.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_v070_lodarmaze.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_v070_lodarmaze.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_wilderness.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_wilderness.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_fungi_panic.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_fungi_panic.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_maelveon.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_maelveon.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_fungi_panic.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_fungi_panic.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_remgard_bridgeguard.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_remgard_bridgeguard.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_v068.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_v068.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_fallhaven_animals.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_fallhaven_animals.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_achievements.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_achievements.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_lethenlor.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_lethenlor.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_bwm_agent_6.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_bwm_agent_6.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_trader_teksin.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_trader_teksin.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_stoutford_combined.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_stoutford_combined.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_vilegard_v070.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_vilegard_v070.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_umar.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_umar.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_flagstone.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_flagstone.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_fungi_panic.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_fungi_panic.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_fallhaven.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_fallhaven.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_tinlyn.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_tinlyn.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_ervelyn.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_ervelyn.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\actorconditions_v0610.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\actorconditions_v0610.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_brimhaven_2b.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_brimhaven_2b.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_loneford_1.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_loneford_1.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_vacor2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_vacor2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_kantya.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_kantya.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_v0610_1.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_v0610_1.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_trader_teksin.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_trader_teksin.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_wilderness.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_wilderness.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_lowyna.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_lowyna.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_guynmart.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_guynmart.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_v070_oldcave.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_v070_oldcave.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_lodarfg.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_lodarfg.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_crossroads_3.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_crossroads_3.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_blackwater_lower.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_blackwater_lower.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_foamingflask_outsideguard.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_foamingflask_outsideguard.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_fallhaven_unnmir.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_fallhaven_unnmir.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_alynndir.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_alynndir.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_brimhaven_2b.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_brimhaven_2b.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemcategories_1.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemcategories_1.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_gorwath.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_gorwath.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_lodarfg2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_lodarfg2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_brimhaven.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_brimhaven.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_v069_2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_v069_2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_woodcabin.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_woodcabin.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_prim_tavern.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_prim_tavern.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_graveyard1.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_graveyard1.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\actorconditions_v0611.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\actorconditions_v0611.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_weapons.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_weapons.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_stoutford.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_stoutford.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_v070_lodarnpcs.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_v070_lodarnpcs.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_crossglen_npcs.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_crossglen_npcs.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_ambelie.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_ambelie.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_crossglen_leta.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_crossglen_leta.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_guynmart.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_guynmart.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_brimhaven2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_brimhaven2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_vilegard_tavern.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_vilegard_tavern.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_crossglen_odair.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_crossglen_odair.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_sign_waterwaycave.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_sign_waterwaycave.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_v0610_monsters2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_v0610_monsters2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_v0715.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_v0715.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\actorconditions_arulir_mountain.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\actorconditions_arulir_mountain.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_pathway_fallhaven.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_pathway_fallhaven.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_talion_2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_talion_2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_junk.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_junk.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_talion.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_talion.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_hjaldar.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_hjaldar.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_fungi_panic.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_fungi_panic.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_halvor_surprise.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_halvor_surprise.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_arulir_mountain.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_arulir_mountain.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_foamingflask_guards.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_foamingflask_guards.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_toszylae.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_toszylae.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_mikhail_foodpoison.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_mikhail_foodpoison.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_fallhaven.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_fallhaven.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_shortcut_lodar.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_shortcut_lodar.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_fallhaven_bucus.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_fallhaven_bucus.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_debug.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_debug.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_thorin.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_thorin.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_arulir_mountain.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_arulir_mountain.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_v069.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_v069.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_bwm_agent_4.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_bwm_agent_4.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_prim_bjorgur.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_prim_bjorgur.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_signs_v068.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_signs_v068.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_burhczyd.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_burhczyd.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_shortcut_lodar.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_shortcut_lodar.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_v070_npcs.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_v070_npcs.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_prim_merchants.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_prim_merchants.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_aulowenn.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_aulowenn.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_thievesguild_1.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_thievesguild_1.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_gylew.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_gylew.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_debug.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_debug.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_twoteeth.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_twoteeth.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\actorconditions_guynmart.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\actorconditions_guynmart.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_duaina.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_duaina.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\actorconditions_stoutford_combined.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\actorconditions_stoutford_combined.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_lleglaris.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_lleglaris.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_stoutford.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_stoutford.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_signs_pre067.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_signs_pre067.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_bwm_agent_3.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_bwm_agent_3.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_thukuzun.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_thukuzun.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_stoutford_combined.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_stoutford_combined.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_v069_monsters.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_v069_monsters.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_debug.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_debug.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_halvor_surprise.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_halvor_surprise.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_animal.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_animal.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_fayvara.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_fayvara.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\actorconditions_v069.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\actorconditions_v069.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_omicronrg9.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_omicronrg9.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_trader_teksin.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_trader_teksin.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_prim_inn.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_prim_inn.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_brimhaven.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_brimhaven.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_crossroads_2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_crossroads_2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_rogorn.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_rogorn.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_fallhaven_athamyr.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_fallhaven_athamyr.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_v0611_2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_v0611_2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_norath.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_norath.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_money.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_money.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\actorconditions_v0611_2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\actorconditions_v0611_2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_crossglen_tharal.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_crossglen_tharal.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_brimhaven_2b.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_brimhaven_2b.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_fallhaven_oldman.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_fallhaven_oldman.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_brimhaven_2b.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_brimhaven_2b.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_burhczyd.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_burhczyd.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_v069_questitems.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_v069_questitems.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\actorconditions_stoutford.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\actorconditions_stoutford.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_v0610_monsters.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_v0610_monsters.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_v0610_monsters1.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_v0610_monsters1.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_blackwater_upper.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_blackwater_upper.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_thorinbone.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_thorinbone.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_brimhaven_2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_brimhaven_2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\actorconditions_trader_teksin.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\actorconditions_trader_teksin.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_maevalia.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_maevalia.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_fallhaven_warden.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_fallhaven_warden.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_v0610_shops.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_v0610_shops.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_vilegard_v0610.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_vilegard_v0610.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemcategories_brimhaven.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemcategories_brimhaven.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_v0611.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_v0611.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_v070.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_v070.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_esfiume.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_esfiume.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_quest.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_quest.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_algangror.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_algangror.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\actorconditions_gison.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\actorconditions_gison.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_fallhaven_tavern.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_fallhaven_tavern.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_falothen.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_falothen.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_bwm_agent_2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_bwm_agent_2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_v068.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_v068.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_fallhaven_larcal.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_fallhaven_larcal.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_fallhaven_npcs.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_fallhaven_npcs.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_brimhaven2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_brimhaven2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_necklaces.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_necklaces.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_fallhaven_arcir.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_fallhaven_arcir.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_wilderness.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_wilderness.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_v069_monsters.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_v069_monsters.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_brimhaven_2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_brimhaven_2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_blackwater_kazaul.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_blackwater_kazaul.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_v070_mobs.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_v070_mobs.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\actorconditions_omi2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\actorconditions_omi2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_trader_teksin.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_trader_teksin.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_fallhaven_unzel.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_fallhaven_unzel.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_v070_misc.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_v070_misc.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_fields_1.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_fields_1.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_stoutford.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_stoutford.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_jhaeld.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_jhaeld.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_blackwater_herec.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_blackwater_herec.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_reinkarr.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_reinkarr.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_ulirfendor.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_ulirfendor.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_gison.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_gison.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_elythom_1.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_elythom_1.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_signs_v0611.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_signs_v0611.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_kaori.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_kaori.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_burhczyd.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_burhczyd.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_guynmart2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_guynmart2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_vilegard_shops.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_vilegard_shops.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_debug.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_debug.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_loneford_kuldan.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_loneford_kuldan.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_pathway_fallhaven.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_pathway_fallhaven.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_graveyard1.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_graveyard1.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_v070_charwood.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_v070_charwood.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_wrye.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_wrye.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_brimhaven.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_brimhaven.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_v070_roadcave.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_v070_roadcave.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_loneford_2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_loneford_2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_pathway_fallhaven.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_pathway_fallhaven.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_v070_lodarcave.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_v070_lodarcave.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_vilegard_villagers.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_vilegard_villagers.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_v070_lodar5cave.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_v070_lodar5cave.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_factions.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_factions.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_remgard_villagers2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_remgard_villagers2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_v070signs1.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_v070signs1.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_gorwath.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_gorwath.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemlist_fungi_panic.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemlist_fungi_panic.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_delivery.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_delivery.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\droplists_v070_shops.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\droplists_v070_shops.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_toszylae_fix.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_toszylae_fix.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_delivery.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_delivery.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_v069_npcs.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_v069_npcs.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_arulir_mountain.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_arulir_mountain.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_jan.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_jan.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_pathway_fallhaven.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_pathway_fallhaven.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_agthor.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_agthor.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_brimhaven2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_brimhaven2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_brimhaven_2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_brimhaven_2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_toszylae_guard.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_toszylae_guard.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_brimhaven_2.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_brimhaven_2.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_factions.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_factions.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_brimhaven.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_brimhaven.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\questlist_v070_charwood.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\questlist_v070_charwood.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\monsterlist_omicronrg9.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\monsterlist_omicronrg9.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\itemcategories_stoutford_combined.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\itemcategories_stoutford_combined.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_taevinn.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_taevinn.json"
+    },
+    {
+        "merged": "C:\\AT\\at-test\\app\\build\\intermediates\\res\\merged\\debug\\raw\\conversationlist_fallhaven_church.json",
+        "source": "C:\\AT\\at-test\\app\\src\\main\\res\\raw\\conversationlist_fallhaven_church.json"
+    }
+]

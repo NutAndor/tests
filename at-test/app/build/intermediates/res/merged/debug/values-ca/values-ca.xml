@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_button1">Ajuda</string>
+    <string name="about_button2">Autors</string>
+    <string name="about_button3">Llicència</string>
+    <string name="about_button4">Sobre això</string>
+    <string name="about_contents1">Benvingut a \"El Camí de Andor\", un joc de rol tipus \"rogue\" de codi obert.&lt;br /> &lt;br /> &lt;a href=http://andorstrail.com/>Fòrums sobre el joc a andorstrail.com, per fer preguntes i discutir sobre el joc.&lt;/a>&lt;br /> &lt;br /> &lt;a href=http://andorstrail.com/wiki>Viqui del joc amb informacio sobre el món del Cami d\'Andor entre d\'altres coses.&lt;/a>&lt;br /> &lt;br /> &lt;a href=https://github.com/AndorsTrailRelease/andors-trail/>El codi font del projecte a github.com per a desenvolupadors.&lt;/a>&lt;br /> &lt;br /> Si us plau, visiteu els fòrums per discutir sobre el joc amb altres jugadors.&lt;br /></string>
+    <string name="about_contents3">Aquest programa és software lliure; pots redistribuir-lo i/o modificar-lo sota els termes de la Llicència Pública General GNU publicada per la Fundació per el Software Lliure; ja sigui la versió 2 de la Llicència, o (a la seva elecció) qualsevol versió posterior &lt;br /> &lt;br /> Aquest programa es distribueix amb l\'esperança de que sigui útil, però SENSE CAP GARANTIA; ni tan sols la garantia implícita de COMERCIALITZACIÓ o IDONEïTAT PER UN PROPÒSIT PARTICULAR. Vegi la Llicència Pública General GNU per més detalls &lt;br /> &lt;br /> Vostè hauria d\'haver rebut una còpia de la Llicència Pública General de GNU junt amb aquest programa; si no, vegi &lt;a href=http://www.gnu.org/licenses> http://www.gnu.org/licenses &lt;/a> &lt;br /> &lt;br /> Per sol·licitar el codi font, sisplau visiti la pàgina del projecte: &lt;a href=https://github.com/AndorsTrailRelease/andors-trail/> https://github.com/AndorsTrailRelease/andors-trail/ &lt;/a> &lt;br /></string>
+    <string name="about_interface">
+
+&lt;div>Les &lt;b>opcions del joc&lt;/b> es poden trobar pressionant el boto de menú del teu dispositiu.&lt;/div>
+
+&lt;p>________________&lt;/p>
+&lt;h1>Icones de la interfície&lt;/h1>
+
+&lt;div>&lt;b>El cofre&lt;/b>&lt;img alt=chest src=chest.png />&lt;/div>
+&lt;p>Compartiments ràpides [Toc llarg als compartiments de dintre per assignar-hi objectes pel seu ús instantani]&lt;/p>
+
+&lt;div>&lt;b>L\'Heroi&lt;/b>&lt;img alt=hero src=char_hero.png />&lt;/div>
+&lt;p>Menú [Resum, Missions, Habilitats i Inventori *]&lt;/p>
+&lt;p>* (A l\'inventori, toqueu un objecte per obtenir-ne informació o toc llarg per mes opcions)&lt;/p>
+
+&lt;div>&lt;b>L\'Enemic&lt;/b>&lt;img alt=monster src=monster.png />&lt;/div>
+&lt;p>Informació [Hi surt durant el combat]&lt;/p>
+
+
+
+&lt;p>________________&lt;/p>
+&lt;h1>Combat&lt;/h1>
+
+&lt;p>Accions presses durant la batalla costen PA...&lt;/p>
+
+&lt;div>&lt;b>Atacar&lt;/b> - [3PA] *&lt;/div>
+&lt;img alt=attacking src=doubleattackexample.png />
+&lt;p>* (L\'equipament o fer servir objectes poden alterar el cost en PA)&lt;/p>
+
+&lt;div>&lt;b>Fer servir objectes&lt;/b> - [5PA]&lt;/div>
+&lt;div>&lt;b>Fugir&lt;/b> - [6PA]&lt;/div>
+
+
+
+&lt;p>________________&lt;/p>
+&lt;h1>Combat Avançat&lt;/h1>
+
+&lt;div>Durant el Combat, toc llarg en una cassella adjacent al Heroi...&lt;/div>
+
+&lt;div>&lt;b>Per fugir&lt;/b>&lt;/div>
+&lt;p>(la casella es marca - i el buto Atac canvia a Moure)&lt;/p>
+&lt;img alt=flee src=flee_example.png />
+&lt;p>[mode de fugida activat - Toc llarg a l\'enemic per re-entrar al mode de combat]&lt;/p>
+
+&lt;div>&lt;b>Per canviar objectius&lt;/b>&lt;/div>
+&lt;p>(la marca vermella que indica l\'objectiu es desplaça entre els enemics)&lt;/p>
+&lt;p>[l\'objectiu ha estat canviat]&lt;/p>
+
+</string>
+    <string name="actorcondition_categories_blood">Desordre de la sang</string>
+    <string name="actorcondition_categories_mental">Mental</string>
+    <string name="actorcondition_categories_physical">Capacitat Física</string>
+    <string name="actorcondition_categories_spiritual">Espiritual</string>
+    <string name="actorcondition_info_immunity">Immune a %1$s</string>
+    <string name="actorcondition_info_removes_all">En treu tot %1$s</string>
+    <string name="actorconditioninfo_category">Categoria de condicionant: %1$s</string>
+    <string name="actorconditioninfo_constant_effect">Efecte constant</string>
+    <string name="actorconditioninfo_effect_every_full_round">Cada torn complet</string>
+    <string name="actorconditioninfo_effect_every_round">Cada torn</string>
+    <string name="actorinfo_attack">Atac:</string>
+    <string name="actorinfo_basetraits">Estadístiques base de combat (sense equipament ni habilitats)</string>
+    <string name="actorinfo_class">Classe:</string>
+    <string name="actorinfo_currentconditions">Condicions actives</string>
+    <string name="actorinfo_currenttraits">Estadístiques de combat (actuals)</string>
+    <string name="actorinfo_defense">Defensa:</string>
+    <string name="actorinfo_difficulty">Dificultat:</string>
+    <string name="actorinfo_health">Salut:</string>
+    <string name="actorinfo_immune_criticals">Immune a cops crítics</string>
+    <string name="actorinfo_movecost">Cost moviment (PA):</string>
+    <string name="app_description">Joc de rol i fantasia basat en missions</string>
+    <string name="app_name">El Camí d\'Andor</string>
+    <string name="bulkselection_select_all">Tot</string>
+    <string name="bulkselection_sell_confirmation">Estàs segur que vols vendre %1$s? Aquest objecte és %2$s i podries no poder recuperar-ho.</string>
+    <string name="bulkselection_sell_confirmation_title">Estàs segur?</string>
+    <string name="bulkselection_totalcost_buy">Cost total: %1$d d\'or</string>
+    <string name="bulkselection_totalcost_sell">Cost total: %1$d d\'or</string>
+    <string name="change_locale_requires_restart">El canvi de recursos locals i de llengua requereix reiniciar. S\'ha tancat Andor\'s Trail.</string>
+    <string name="change_theme_requires_restart">Per canviar el patró (theme) de la interfície cal reiniciar. S\'ha tancat Andor\'s Trail.</string>
+    <string name="combat_attack">Atacar (%1$d PA)</string>
+    <string name="combat_begin_flee">Ara pots fugir del combat clickant en la direccio on vols moure\'t.</string>
+    <string name="combat_condition_monster_apply">%2$s afecta a %1$s.</string>
+    <string name="combat_condition_monster_clear">%2$s ja no afecta a %1$s.</string>
+    <string name="combat_condition_monster_immune">%1$s ara és immune a %2$s.</string>
+    <string name="combat_condition_player_apply">%1$s t\'afecta.</string>
+    <string name="combat_condition_player_clear">%1$s ja no t\'afecta.</string>
+    <string name="combat_condition_player_immune">Ara ets immune a %1$s.</string>
+    <string name="combat_endturn">Finalitzar torn</string>
+    <string name="combat_flee">Fugir</string>
+    <string name="combat_flee_failed">No has pogut fugir!</string>
+    <string name="combat_hero_dies">Caus inconscient, però afortunadament despertes viu, atordit i fatigat. Has perdut %1$d d\'experiència.</string>
+    <string name="combat_log_item_plural">Has trobat %1$d objectes:</string>
+    <string name="combat_log_item_single">Has trobat un objecte:</string>
+    <string name="combat_log_noentries">Encara no hi ha entrades.</string>
+    <string name="combat_log_title">Registre de combat</string>
+    <string name="combat_miss_animation_message">Falla.</string>
+    <string name="combat_monsteraction">%1$s ataca.</string>
+    <string name="combat_monsterhealth">PV:</string>
+    <string name="combat_move">Moure\'s (%1$d PA)</string>
+    <string name="combat_not_enough_ap">No et queden PA per aquesta ronda.</string>
+    <string name="combat_result_herohit">Encertes %1$s per %2$d pv!</string>
+    <string name="combat_result_herohitcritical">Li fas un cop crític a en %1$s per %2$d pv!</string>
+    <string name="combat_result_herokillsmonster">%1$s ha mort!</string>
+    <string name="combat_result_heromiss">Has fallat l\'atac.</string>
+    <string name="combat_result_monsterhit">%1$s t\'encerta per %2$d pv!</string>
+    <string name="combat_result_monsterhitcritical">%1$s et fa un cop crític per %2$d pv!</string>
+    <string name="combat_result_monstermiss">%1$s falla!</string>
+    <string name="combat_result_monstermoved">%1$s es mou.</string>
+    <string name="combat_status_ap">PA: %1$d</string>
+    <string name="combat_taunt_monster">Et mofes de %1$s!</string>
+    <string name="combat_use">Fes servir objecte</string>
+    <string name="conversation_leave">Marxa</string>
+    <string name="conversation_lostgold">[Has perdut %1$d monedes d\'or]</string>
+    <string name="conversation_next">Següent</string>
+    <string name="conversation_reward_quest_finished">[Missió completada: \"%1$s\"]</string>
+    <string name="conversation_reward_quest_updated">[Missió actualitzada: \"%1$s\"]</string>
+    <string name="conversation_rewardexp">[Has guanyat %1$d punts d\'experiència]</string>
+    <string name="conversation_rewardgold">[Has guanyat %1$d monedes d\'or]</string>
+    <string name="conversation_rewarditem">[Has obtingut un objecte]</string>
+    <string name="conversation_rewarditems">[Has obtingut %1$d objectes]</string>
+    <string name="dialog_close">Tancar</string>
+    <string name="dialog_game_over_text">Prens el teu últim alè i mors.</string>
+    <string name="dialog_game_over_title">Fi de la partida</string>
+    <string name="dialog_groundloot_message">Has trobat uns objectes.</string>
+    <string name="dialog_groundloot_title">Objectes</string>
+    <string name="dialog_loading_failed_cheat">El Camí d\'Andor no ha pogut carregar l\'arxiu amb la partida desada. Aquest arxiu de partida ja s\'ha continuat.</string>
+    <string name="dialog_loading_failed_incorrectversion">El Camí d\'Andor no ha pogut carregar l\'arxiu amb la partida desada. Aquest arxiu de partida ha estat creat amb una versió més nova que la que esteu executant.</string>
+    <string name="dialog_loading_failed_message">El Cami d\'Andor no ha pogut carregar l\'arxiu amb la partida desada.
+\n
+\n:(
+\n
+\nL\'arxiu pot estar danyat o incomplet.</string>
+    <string name="dialog_loading_failed_title">Ha fallat la càrrega</string>
+    <string name="dialog_loading_message">S\'estan carregant els recursos…</string>
+    <string name="dialog_loot_foundgold">Has trobat %1$d monedes d\'or.</string>
+    <string name="dialog_loot_pickall">Agafar-ho tot</string>
+    <string name="dialog_loot_pickedupitem">Has agafat un objecte.</string>
+    <string name="dialog_loot_pickedupitems">Has agafat %1$d objectes.</string>
+    <string name="dialog_monsterencounter_conditions">Condicions</string>
+    <string name="dialog_monsterencounter_info">Informació</string>
+    <string name="dialog_monsterencounter_message">Vols atacar\?
+\nDifilcutat: %1$s</string>
+    <string name="dialog_monsterencounter_title">Enfronta</string>
+    <string name="dialog_monsterloot_gainedexp">Has guanyat %1$d punts d\'experiència.</string>
+    <string name="dialog_monsterloot_message">Has sobreviscut l\'enfrontament.</string>
+    <string name="dialog_monsterloot_title">Victoria</string>
+    <string name="dialog_more">Més</string>
+    <string name="dialog_newversion_message">Gràcies per descarregar El Camí d\'Andor!
+\n
+\nSi us plau, recorda que encara, en aquesta versió, El Cami d\'Andor és un treball en progrés, que vol dir que alguns mapes no estan complets.
+\nSi us plau, visita el fòrum del projecte per discutir sobre el joc amb altres jugadors o ajudar a fer el joc molt millor encara (mireu el \'Sobre el joc\').
+\n
+\nS\'agraeix qualsevol comentari!</string>
+    <string name="dialog_newversion_permission_information">"
+\n
+\nPer poder desar i carregar les teves partides (i només per aquest motiu) El Camí d\'Andor et demanarà permís d\'accés a l\'emmagatzematge."</string>
+    <string name="dialog_newversion_title">Benvingut</string>
+    <string name="dialog_permission_information">El Camí d\'Andor escriu les partides desades a l\'emmagatzematge del dispositiu (accessible per l\'usuari). Això permet fer una còpia de seguretat de les partides desades o transferir-les a un altre dispositiu fàcilment. Sisplau, visita els nostres fòrums per a obtenir més informació.
+\n
+\nEl Camí d\'Andor no accedeix al dispositu per ningun altre motiu i no accedeix a internet. El Camí d\'Andor es de codi obert (open source) i es pot trobar a GitHub.</string>
+    <string name="dialog_permission_information_title">Carregant i desant partides</string>
+    <string name="dialog_recenter">Recentrar</string>
+    <string name="dialog_rest_confirm_message">Vols descansar aquí\?</string>
+    <string name="dialog_rest_message">Has descansat i recuperat tota la teva salut.</string>
+    <string name="dialog_rest_title">Descansa</string>
+    <string name="display_worldmap_not_available">No es pot veure el mapa des d\'on ets.</string>
+    <string name="display_worldmap_title">Mapa</string>
+    <string name="exit_to_menu">Sortir al menú</string>
+    <string name="heroinfo_actionpoints">Punts d\'accio (PA):</string>
+    <string name="heroinfo_char">Resum</string>
+    <string name="heroinfo_experiencepoints">Punts d\'experiència (PE):</string>
+    <string name="heroinfo_gamestats">Estadístiques de la partida</string>
+    <string name="heroinfo_gamestats_bonemeals">Pocions de farina d\'os utilitzades</string>
+    <string name="heroinfo_gamestats_deaths">Vegades que t\'has quedat inconscient</string>
+    <string name="heroinfo_gamestats_fav_item">Objecte més utilitzat</string>
+    <string name="heroinfo_gamestats_fav_monsters">Monstres que mates més sovint</string>
+    <string name="heroinfo_gamestats_name_and_qty">%1$s (%2$d)</string>
+    <string name="heroinfo_gamestats_num_killed_monsters">Monstres que has matat</string>
+    <string name="heroinfo_gamestats_num_used_items">Objectes utilitzats</string>
+    <string name="heroinfo_gamestats_quests">Missions complertes</string>
+    <string name="heroinfo_gamestats_spent_gold">Or gastat a les botigues</string>
+    <string name="heroinfo_gamestats_top_boss">Monstre més poderós que has matat</string>
+    <string name="heroinfo_gamestats_visited_maps">Llocs on has estat</string>
+    <string name="heroinfo_gold">Or: %1$d</string>
+    <string name="heroinfo_healthpoints">Punts de salut (PS):</string>
+    <string name="heroinfo_inv">Objectes</string>
+    <string name="heroinfo_inventory">Inventari</string>
+    <string name="heroinfo_inventory_categories">Categoria</string>
+    <string name="heroinfo_inventory_sort">Ordena per</string>
+    <string name="heroinfo_level">Nivell</string>
+    <string name="heroinfo_levelup">Pujar de nivell</string>
+    <string name="heroinfo_limited_lives">Vides limitades (Queden %1$d/%2$d)</string>
+    <string name="heroinfo_mode">Mode</string>
+    <string name="heroinfo_one_life">Mort permanent (1 vida)</string>
+    <string name="heroinfo_quests">Missions</string>
+    <string name="heroinfo_reequip_cost">PA necessaris per reequipar:</string>
+    <string name="heroinfo_skill">Habilitats</string>
+    <string name="heroinfo_skill_categories">categoria</string>
+    <string name="heroinfo_skill_sort">Ordenar</string>
+    <string name="heroinfo_totalexperience">Experiència total</string>
+    <string name="heroinfo_unlimited_lives">Vides il·limitades, 1 desat</string>
+    <string name="heroinfo_unlimited_lives_and_saves">Estàndard
+\n(Vides i desats il·limitats)</string>
+    <string name="heroinfo_useitem_cost">PA necessaris per usar un objecte:</string>
+    <string name="heroinfo_wornequipment">Equipament posat</string>
+    <string name="inventory_assign">Assignar osca ràpida</string>
+    <string name="inventory_assign_slot1">Osca 1</string>
+    <string name="inventory_assign_slot2">Osca 2</string>
+    <string name="inventory_assign_slot3">Osca 3</string>
+    <string name="inventory_category_all">Tot</string>
+    <string name="inventory_category_armor">Armadura</string>
+    <string name="inventory_category_favorites">Preferits</string>
+    <string name="inventory_category_food">Menjar</string>
+    <string name="inventory_category_jewelry">Joies</string>
+    <string name="inventory_category_other">Altres</string>
+    <string name="inventory_category_potion">Pocions</string>
+    <string name="inventory_category_quest">Objectes de missió</string>
+    <string name="inventory_category_weapons">Armes</string>
+    <string name="inventory_drop">Deixar</string>
+    <string name="inventory_equip">Equipar</string>
+    <string name="inventory_equip_offhand">Equip (guardat)</string>
+    <string name="inventory_info">Informació</string>
+    <string name="inventory_item_dropped">Has deixat %1$s.</string>
+    <string name="inventory_item_equipped">Has equipat %1$s.</string>
+    <string name="inventory_item_used">Has fet servir %1$s.</string>
+    <string name="inventory_movebottom">Ves avall</string>
+    <string name="inventory_movetop">Ves a dalt</string>
+    <string name="inventory_selectitem">Selecciona l\'objecte a assignar</string>
+    <string name="inventory_sort_custom">Sense classificar</string>
+    <string name="inventory_sort_name">Nom</string>
+    <string name="inventory_sort_price">Preu</string>
+    <string name="inventory_sort_quantity">Quantitat</string>
+    <string name="inventory_sort_rarity">Raresa</string>
+    <string name="inventory_sort_type">Tipus</string>
+    <string name="inventory_unassign">Desassignar osca ràpida</string>
+    <string name="inventory_unequip">Treure</string>
+    <string name="inventory_use">Fer servir</string>
+    <string name="iteminfo_action_equip">Equipa</string>
+    <string name="iteminfo_action_equip_ap">Equipa (%1$d PA)</string>
+    <string name="iteminfo_action_unequip">Treu-me</string>
+    <string name="iteminfo_action_unequip_ap">Treu-me (%1$d PA)</string>
+    <string name="iteminfo_action_use">Fes servir</string>
+    <string name="iteminfo_action_use_ap">Fes servir (%1$d PA)</string>
+    <string name="iteminfo_category">Categoria:</string>
+    <string name="iteminfo_displaytypes_extraordinary">Extraordinari</string>
+    <string name="iteminfo_displaytypes_legendary">Llegendari</string>
+    <string name="iteminfo_displaytypes_ordinary">Ordinari</string>
+    <string name="iteminfo_displaytypes_quest">Objecte de missió</string>
+    <string name="iteminfo_displaytypes_rare">Estrany</string>
+    <string name="iteminfo_effect_chance_of">%1$s de probabilitat de %2$s</string>
+    <string name="iteminfo_effect_critical_multiplier">Activa els cops crítics amb un factor de x%1$.1f</string>
+    <string name="iteminfo_effect_decrease_attack_chance">Baixa la probabilitat d\'atac en %1$d</string>
+    <string name="iteminfo_effect_decrease_attack_cost">Redueix el cost d\'atacar en %1$d PA</string>
+    <string name="iteminfo_effect_decrease_attack_damage">Baixa el dany atacant en %1$d</string>
+    <string name="iteminfo_effect_decrease_attack_damage_minmax">Redueix el dany en atac en %1$d-%2$d</string>
+    <string name="iteminfo_effect_decrease_block_chance">Baixa la probabilitat de bloqueig en %1$d</string>
+    <string name="iteminfo_effect_decrease_critical_skill">Baixa la probabilitat de cop crític en %1$d</string>
+    <string name="iteminfo_effect_decrease_current_ap">Extreu %1$s PA</string>
+    <string name="iteminfo_effect_decrease_current_hp">Extreu %1$s PV</string>
+    <string name="iteminfo_effect_decrease_damage_resistance">Abaixa la resistència al dany en %1$d</string>
+    <string name="iteminfo_effect_decrease_max_ap">Baixa el màxim de PA en %1$d</string>
+    <string name="iteminfo_effect_decrease_max_hp">Baixa el màxim de PV en %1$d</string>
+    <string name="iteminfo_effect_decrease_movecost">Baixa el cost del moviment en %1$d PA</string>
+    <string name="iteminfo_effect_decrease_reequip_cost">Disminueix els PA necessaris per equipar/desequipar: %1$d PA</string>
+    <string name="iteminfo_effect_decrease_use_cost">Disminueix els PA necessaris per usar objectes: %1$d PA</string>
+    <string name="iteminfo_effect_duration">(%1$d torns)</string>
+    <string name="iteminfo_effect_increase_attack_chance">Augmenta la probabilitat d\'atacar en %1$d</string>
+    <string name="iteminfo_effect_increase_attack_cost">Incrementa el cost d\'atac en %1$d PA</string>
+    <string name="iteminfo_effect_increase_attack_damage">Incrementa el dany per atac en %1$d</string>
+    <string name="iteminfo_effect_increase_attack_damage_minmax">Incrementa el dany per atac en %1$d-%2$d</string>
+    <string name="iteminfo_effect_increase_block_chance">Augmenta la probabilitat de bloqueig en %1$d</string>
+    <string name="iteminfo_effect_increase_critical_skill">Incrementa l\'habilitat de cops crítics en %1$d</string>
+    <string name="iteminfo_effect_increase_current_ap">Restaura %1$s PA</string>
+    <string name="iteminfo_effect_increase_current_hp">Restaura %1$s PV</string>
+    <string name="iteminfo_effect_increase_damage_resistance">Augmenta la resistència al dany en %1$d</string>
+    <string name="iteminfo_effect_increase_max_ap">Incrementa el màxim de PA +%1$d</string>
+    <string name="iteminfo_effect_increase_max_hp">Incrementa el màxim de PV +%1$d</string>
+    <string name="iteminfo_effect_increase_movecost">Penalitza el moviment amb +%1$d PA</string>
+    <string name="iteminfo_effect_increase_reequip_cost">Augmenta els PA necessaris per equipar/desequipar: %1$d PA</string>
+    <string name="iteminfo_effect_increase_use_cost">Augmenta els PA necessaris per usar objectes: %1$d PA</string>
+    <string name="iteminfo_effect_set_damage_modifier">Modificador de dany: %1$d%%</string>
+    <string name="iteminfo_effect_weapon_attack_chance">Probabilitat d\'encert en atac: %1$d</string>
+    <string name="iteminfo_effect_weapon_attack_cost">Cost d\'atacar: %1$d PA</string>
+    <string name="iteminfo_effect_weapon_attack_damage">Dany en Atac: %1$d</string>
+    <string name="iteminfo_effect_weapon_attack_damage_minmax">Dany en atac: %1$d-%2$d</string>
+    <string name="iteminfo_effect_works_on_attacker">A l\'atacant</string>
+    <string name="iteminfo_effect_works_on_source">A la font</string>
+    <string name="iteminfo_effect_works_on_target">A l\'objectiu</string>
+    <string name="iteminfo_effect_works_when_equipped">Quan es porta posat</string>
+    <string name="iteminfo_effect_works_when_hit_by_attacker">Quan és colpejat per l\'atacant</string>
+    <string name="iteminfo_effect_works_when_hitting_target">Quan s\'encerta l\'objectiu</string>
+    <string name="iteminfo_effect_works_when_killed_by_attacker">Quan mort per l\'atacant</string>
+    <string name="iteminfo_effect_works_when_killing_target">A cada mort</string>
+    <string name="iteminfo_effect_works_when_used">Quan s\'utilitza</string>
+    <string name="levelup_add_attackchance">Incrementa la probabilitat d\'èxit en atac (+%1$d)</string>
+    <string name="levelup_add_attackchance_description">Afegeix %1$d a la teva probabilitat d\'èxit en atac.</string>
+    <string name="levelup_add_attackdamage">Incrementa el dany fet en atac (+%1$d)</string>
+    <string name="levelup_add_attackdamage_description">Afegeix %1$d al dany fet en atac.</string>
+    <string name="levelup_add_blockchance">Incrementa la probabilitat de bloqueig (+%1$d)</string>
+    <string name="levelup_add_blockchance_description">Afegeix %1$d a la teva probabilitat d\'atac de base.</string>
+    <string name="levelup_add_health">Incrementa la salut (+%1$d PV)</string>
+    <string name="levelup_add_health_description">Afegeix %1$d a la teva salut màxima.</string>
+    <string name="levelup_adds_new_skillpoint">Aquest nivell també et dona un nou punt per gastar en habilitats!</string>
+    <string name="levelup_buttontext">Puja de nivell</string>
+    <string name="levelup_description">Benvingut al nivell %1$d!</string>
+    <string name="levelup_title">Puja de nivell</string>
+    <string name="loadsave_empty_slot">%1$d.&lt;buida></string>
+    <string name="loadsave_save_overwrite_confirmation">Aquesta partida desada conté un nom de jugador diferent (%1$s) que l\'actual (%2$s). Esteu segurs que voleu sobreescriure la partida desada?</string>
+    <string name="loadsave_save_overwrite_confirmation_all">Segur que vols sobreescriure aquesta partida\?</string>
+    <string name="loadsave_save_overwrite_confirmation_slot">(osca %1$d)</string>
+    <string name="loadsave_save_overwrite_confirmation_title">Voleu sobreescriure la partida desada?</string>
+    <string name="loadsave_save_to_new_slot">Crea una nova ranura per desar la partida</string>
+    <string name="loadsave_selectslot">Escull una osca</string>
+    <string name="loadsave_title_load">Carrega una partida desada</string>
+    <string name="loadsave_title_save">Desa la partida</string>
+    <string name="localize_resources_from_mo_filename">ca.mo</string>
+    <string name="menu_button_worldmap">Mapa</string>
+    <string name="menu_button_worldmap_failed">No es pot veure el mapa.</string>
+    <string name="menu_save">Desa</string>
+    <string name="menu_save_failed">No s\'ha pogut desar la partida! Que tens la tarja SD muntada i llegible?</string>
+    <string name="menu_save_gamesaved">Partida desada a l\'osca %1$d</string>
+    <string name="menu_save_saving_not_allowed_in_combat">No pots desar la partida durant un combat.</string>
+    <string name="menu_save_switch_character">Desar et permet canviar de personatge i continuar la partida actual més tard. Vols desar i sortir de la partida actual\?</string>
+    <string name="menu_save_switch_character_title">Canviar personatge</string>
+    <string name="menu_settings">Preferències</string>
+    <string name="monster_difficulty_easy">Fàcil</string>
+    <string name="monster_difficulty_hard">Difícil</string>
+    <string name="monster_difficulty_impossible">Impossible</string>
+    <string name="monster_difficulty_normal">Normal</string>
+    <string name="monster_difficulty_veryeasy">Molt fàcil</string>
+    <string name="monster_difficulty_veryhard">Molt difícil</string>
+    <string name="preferences_attackspeed_fast">Ràpides</string>
+    <string name="preferences_attackspeed_instant">Instantànies (sense animació)</string>
+    <string name="preferences_attackspeed_normal">Normals</string>
+    <string name="preferences_attackspeed_slow">Lentes</string>
+    <string name="preferences_combat_category">Combat</string>
+    <string name="preferences_combat_speed">Determina com de ràpid ha d\'anar l\'animació de l\'atac dels monstres.</string>
+    <string name="preferences_combat_speed_title">Velocitat de combat</string>
+    <string name="preferences_dialog_category">Diàleg de confirmació</string>
+    <string name="preferences_dialog_confirmattack">Activa el diàleg \'Vols atacar...?\' abans d\'atacar un monstre.</string>
+    <string name="preferences_dialog_confirmattack_title">Confirmeu l\'atac</string>
+    <string name="preferences_dialog_confirmrest">Pregunta si vols descansar quan entreu a un llit. Si no, sempre descansareu automàticament.</string>
+    <string name="preferences_dialog_confirmrest_title">Confirmar per descansar</string>
+    <string name="preferences_dialog_monsterloot">Escull com vols que es mostrin els resultats d\'una lluita (or, experiència, objectes).</string>
+    <string name="preferences_dialog_monsterloot_title">Mostrant el botí del monstre</string>
+    <string name="preferences_dialog_overwrite_savegame">Es mostrarà un quadre de diàleg quan vulguis desar la partida sobreescrivint una osca ja utilitzada.</string>
+    <string name="preferences_dialog_overwrite_savegame_title">Confirma la sobreescriptura de desat</string>
+    <string name="preferences_display_category">Mostra</string>
+    <string name="preferences_display_fullscreen">Mostra el joc a pantalla complerta. (Requereix reiniciar-ho)</string>
+    <string name="preferences_display_fullscreen_title">Pantalla complerta</string>
+    <string name="preferences_display_loot_dialog">Sempre mostra el diàleg amb el botí</string>
+    <string name="preferences_display_loot_dialog_on_items">Mostra el diàleg de botí només si trobes objectes</string>
+    <string name="preferences_display_loot_dialog_on_items_or_toast">Diàleg si hi ha objectes, notificació si no</string>
+    <string name="preferences_display_loot_never">No mostris res</string>
+    <string name="preferences_display_loot_toast">Mostra una notificació curta</string>
+    <string name="preferences_display_loot_toast_on_items">Mostra notificació només si hi ha objectes</string>
+    <string name="preferences_display_overwrite_savegame_entries_always_confirm">Mostra sempre el diàleg de confirmació</string>
+    <string name="preferences_display_overwrite_savegame_entries_confirm_overwrite">Mostra només quan sobreescrigui a un jugador diferent</string>
+    <string name="preferences_display_overwrite_savegame_entries_never_confirm">No mostris mai el diàleg de confirmació</string>
+    <string name="preferences_display_scaling_factor">Fa que tot es vegi més gran, o més petit, a la finestra de joc.</string>
+    <string name="preferences_display_scaling_factor_50_percent">Meitat de la mida</string>
+    <string name="preferences_display_scaling_factor_50_percent_larger">Mida x1.5</string>
+    <string name="preferences_display_scaling_factor_75_percent">Mida x0.75</string>
+    <string name="preferences_display_scaling_factor_double">Mida doble</string>
+    <string name="preferences_display_scaling_factor_normal">Mida normal</string>
+    <string name="preferences_display_scaling_factor_title">Factor d\'escala</string>
+    <string name="preferences_display_theme">Escull el patró (theme) de la interfície. (requereix reiniciar)</string>
+    <string name="preferences_display_theme_blue">Cobalt</string>
+    <string name="preferences_display_theme_charcoal">Obsidiana</string>
+    <string name="preferences_display_theme_green">Malaquita</string>
+    <string name="preferences_display_theme_title">Patró (theme)</string>
+    <string name="preferences_high_quality_filters">Desactiva-ho si tens problemes de rendiment en mapes amb filtres (com coves fosques). Activant aquesta opció el joc usarà filtres de color avançats, en comptes de transparències amb colors sòlids.</string>
+    <string name="preferences_high_quality_filters_title">Filtres d\'alta qualitat</string>
+    <string name="preferences_language">Idioma</string>
+    <string name="preferences_language_default">Idioma del sistema</string>
+    <string name="preferences_language_description">Selecciona l\'idioma. Si l\'idioma escollit no està disponible s\'usarà l\'anglès. (Cal reiniciar)</string>
+    <string name="preferences_movement_category">Moviment</string>
+    <string name="preferences_movement_dpad_minimizeable">Si el D-Pad virtual està activat, aquesta opció permet minimitzar-lo prement al seu centre.</string>
+    <string name="preferences_movement_dpad_minimizeable_title">D-Pad minimitzable</string>
+    <string name="preferences_movement_dpad_position">Mostra un D-Pad virtual en pantalla per al moviment.</string>
+    <string name="preferences_movement_dpad_position_title">D-pad Virtual</string>
+    <string name="preferences_movement_dpad_positions_center_bottom">Abaix centrat</string>
+    <string name="preferences_movement_dpad_positions_center_left">Centrat a l\'esquerra</string>
+    <string name="preferences_movement_dpad_positions_center_right">Centrat a la dreta</string>
+    <string name="preferences_movement_dpad_positions_center_top">Centrat a dalt</string>
+    <string name="preferences_movement_dpad_positions_disabled">Inactiu</string>
+    <string name="preferences_movement_dpad_positions_lower_left">Cantonada avall a l\'esquerra</string>
+    <string name="preferences_movement_dpad_positions_lower_right">Cantonada avall a la dreta</string>
+    <string name="preferences_movement_dpad_positions_upper_left">Cantonada dalt a l\'esquerra</string>
+    <string name="preferences_movement_dpad_positions_upper_right">Cantonada dalt a la dreta</string>
+    <string name="preferences_movement_dpad_transparency">Si s\'activa el D-pad virtual, aquesta opció en determina la transparència.</string>
+    <string name="preferences_movement_dpad_transparency_30_pct">30%</string>
+    <string name="preferences_movement_dpad_transparency_40_pct">40%</string>
+    <string name="preferences_movement_dpad_transparency_50_pct">50%</string>
+    <string name="preferences_movement_dpad_transparency_60_pct">60%</string>
+    <string name="preferences_movement_dpad_transparency_70_pct">70%</string>
+    <string name="preferences_movement_dpad_transparency_title">Transparència de D-pad</string>
+    <string name="preferences_movementmethod">Com movem l\'heroi i gestionem els obstacles.</string>
+    <string name="preferences_movementmethod_title">Mètode de moviment</string>
+    <string name="preferences_movementmethods_avoid">Evitant els obstacles</string>
+    <string name="preferences_movementmethods_straight">Directe (original)</string>
+    <string name="preferences_optimized_drawing">Deshabiliteu aixo si observeu artefactes gràfics. Habilitar aquesta opció farà que el joc nomes torni a dibuixar les parts de la pantalla que canvien en cada moment.</string>
+    <string name="preferences_optimized_drawing_title">Dibuixat optimitzat</string>
+    <string name="preferences_quickslots_placement">Posició ràpida</string>
+    <string name="preferences_quickslots_placement_summary">On posar els accessos ràpids</string>
+    <string name="preferences_quickslots_placements_horizontal_bottom_left">A sota a l\'esquerra, al llarg de la vora inferior</string>
+    <string name="preferences_quickslots_placements_horizontal_bottom_right">A baix a la dreta, al llarg de la vora inferior</string>
+    <string name="preferences_quickslots_placements_horizontal_center_bottom">A sota i al centre</string>
+    <string name="preferences_quickslots_placements_vertical_bottom_left">A sota a l\'esquerra, al llarg de la vora esquerra</string>
+    <string name="preferences_quickslots_placements_vertical_bottom_right">A baix a la dreta, al llarg de la vora dreta</string>
+    <string name="preferences_quickslots_placements_vertical_center_left">A l\'esquerra, a mitja alçada</string>
+    <string name="preferences_quickslots_placements_vertical_center_right">A la dreta, a mitja alçada</string>
+    <string name="preferences_ui_category">Interfície</string>
+    <string name="preferences_ui_enable_animations">Anima alguns elements de l\'interfície com ara la barra de combat.</string>
+    <string name="preferences_ui_enable_animations_title">Activa animacions</string>
+    <string name="preferences_ui_show_quickslots_when_toolbox_is_visible">Fa que els botons d\'accés ràpid es mostrin així que s\'obre la caixa d\'eines</string>
+    <string name="preferences_ui_show_quickslots_when_toolbox_is_visible_title">Mostra els accessos ràpids quan s\'obri la caixa d\'eines</string>
+    <string name="preferences_ui_use_localized_resources">Utilitza traducció d\'interfície i contingut, on es pugui. (Cal reiniciar)</string>
+    <string name="preferences_ui_use_localized_resources_title">Utilitza recursos localitzats</string>
+    <string name="questlog_includecompleted_hidecompleted">Missions actives</string>
+    <string name="questlog_includecompleted_includecompleted">Totes les missions</string>
+    <string name="questlog_includecompleted_onlycompleted">Missions complides</string>
+    <string name="questlog_includecompleted_prompt">Seleccioneu les missions a mostrar</string>
+    <string name="questlog_queststatus">Estat: %1$s</string>
+    <string name="questlog_queststatus_completed">Acomplida</string>
+    <string name="questlog_queststatus_inprogress">En progrés</string>
+    <string name="rip_startscreen">(DEP)</string>
+    <string name="savegame_currenthero_displayinfo">nivell %1$d, %2$d exp, %3$d or</string>
+    <string name="shop_buy">Compra</string>
+    <string name="shop_buyitem">Compra (%1$d d\'or)</string>
+    <string name="shop_infoitem">Informació</string>
+    <string name="shop_item_bought">%1$s comprat.</string>
+    <string name="shop_item_sold">%1$s venut.</string>
+    <string name="shop_item_sort">Ordena</string>
+    <string name="shop_sell">Ven</string>
+    <string name="shop_sellitem">Ven (%1$d d\'or)</string>
+    <string name="shop_yourgold">El teu or: %1$d</string>
+    <string name="shoplist_sort_custom">Sense ordenar</string>
+    <string name="shoplist_sort_name">Nom</string>
+    <string name="shoplist_sort_price">Preu</string>
+    <string name="shoplist_sort_quantity">Quantitat</string>
+    <string name="shoplist_sort_rarity">Raresa</string>
+    <string name="shoplist_sort_type">Tipus</string>
+    <string name="skill_category_all">Tot</string>
+    <string name="skill_category_criticals">Crítics</string>
+    <string name="skill_category_defense">Defensa</string>
+    <string name="skill_category_immunity">Immunitat</string>
+    <string name="skill_category_offense">Atac</string>
+    <string name="skill_category_proficiency">Destresa</string>
+    <string name="skill_category_speciality">Especialitat</string>
+    <string name="skill_category_utility">Utilitat</string>
+    <string name="skill_current_level">Nivell actual: %1$d</string>
+    <string name="skill_current_level_with_maximum">Nivell actual: %1$d / %2$d</string>
+    <string name="skill_longdescription_armor_prof_heavy">Per cada nivell d\'habilitat, incrementa la probabilitat de bloqueig de cada peça d\'armadura pesada equipada en un %1$d %% de la probabilitat de bloqueig base. Les peces d\'armadura pesada tenen penalitzacions de moviment reduides un %2$d %% per cada nivell d\'habilitat i penalitzacions de velocitat d\'atac reduides un %3$d %% per nivell d\'habilitat. Les armadures pesades inclouen armadures fetes de: metall, plaques i cota de malla.</string>
+    <string name="skill_longdescription_armor_prof_light">Per cada nivell d\'habilitat, incrementa la probabilitat de bloqueig de cada peça d\'armadura lleugera equipada en un %1$d %% de la probabilitat de bloqueig base. Les armadures lleugeres inclouen armadures fetes de: pell, metall lleuger i cuir.</string>
+    <string name="skill_longdescription_armor_prof_shield">Incrementa la resistència al mal en %1$d punts per cada nivell d\'habilitat mentre tinguis equipat un escut o un arma defensiva.</string>
+    <string name="skill_longdescription_armor_prof_unarmored">Quan lluitis sense armadura, guanyes %1$d punts de probabilitat de bloqueig per cada nivell d\'habilitat. La tela no és considerada armadura.</string>
+    <string name="skill_longdescription_barkskin">Cada nivell de l\'habilitat incrementa la resistència al dany per %1$d.</string>
+    <string name="skill_longdescription_barter">Cada nivell de l\'habilitat disminueix la diferencia entre vendre i comprar %1$d punts percentuals.</string>
+    <string name="skill_longdescription_better_criticals">Cada nivell de l\'habilitat incrementa en %1$d %% el multiplicador de crític donat per l\'equipament.</string>
+    <string name="skill_longdescription_cleave">Cada nivell de l\'habilitat dona +%1$d punts d\'acció (PA) per cada mort.</string>
+    <string name="skill_longdescription_coinfinder">Cada nivell de l\'habilitat incrementa les troballes d\'or en els monstres en un %1$d %%, i la seva quantitat en un %2$d %% (fins a la quantitat màxima del propi monstre).</string>
+    <string name="skill_longdescription_concussion">Quan el destinatari del teu atac te una capacitat de bloqueig com a mínim %1$d més baixa que la teva probabilitat de encert en atac, hi ha una probabilitat del %2$d %% que el teu cop li crei una commoció. Una commoció redueix severament la capacitat ofensiva, complicant que faci atacs que encertin.</string>
+    <string name="skill_longdescription_crit1">Per cada cop crític, hi ha una probabilitat del %1$d %% de que provoqui una hemorràgia interna al destinatari, activant-li el condicionant \'Hemorràgia Interna\' que baixa severament les seves habilitats ofensives reduint la probabilitat que els seus atacs posteriors encertin.</string>
+    <string name="skill_longdescription_crit2">Cada cop crític que es faci, hi ha un %1$d %% de probabilitat que el cop generi una fractura d\'ossos al destinatari, activant-li el condicionant de \'Fractura\' que malmet severament les seves habilitats defensives reduint la probabilitat de defendre\'s en els atacs posteriors.</string>
+    <string name="skill_longdescription_dodge">Cada nivell de l\'habilitat millora la probabilitat de bloqueig en %1$d punts percentuals.</string>
+    <string name="skill_longdescription_eater">Cada nivel de l\'habilitat dona +%1$d punts de vida (PV) amb cada mort.</string>
+    <string name="skill_longdescription_evasion">Per cada nivell de l\'habilitat, redueix ambdues coses, les fugides fallides en %1$d %% i la probabilitat de que un monstre adjacent ataqui en %2$d %%.</string>
+    <string name="skill_longdescription_fightstyle_2hand">Et beneficia quan es fan servir armes a dues mans, com espases a dues mans, destrals de guerra o martells gegants.
+\n
+\nCada nivell de l\'habilitat incrementa el modificador de mal de l\'arma de dues mans un %1$d %% del mal original.</string>
+    <string name="skill_longdescription_fightstyle_dualwield">Et beneficia quan lluites amb dues armes alhora, una a la mà principal i una a la mà secundària.
+\n
+\nSense aquesta habilitat, sols un %1$d %% de les qualitats de l\'arma secundària s\'aprofiten. Això inclou probabilitat d\'atac, habilitat de cops crítics, modificador al mal causat i probabilitat de bloqueig. Sense aquesta habilitat, el cost en punts (PA) de cada atac és la suma dels costos d\'atac de les dues armes (principal i secundària). S\'utilitza el menor dels modificadors al mal per ferir.
+\n
+\nAmb un nivell d\'aquesta habilitat, %2$d %% de les qualitats de l\'arma secundària s\'aprofiten, i el cost d\'atac és el de l\'arma amb cost més alt, més un %3$d %% del cost de l\'altra. Es fa servir la mitjana dels modificadors al mal per ferir.
+\n
+\nAmb dos nivells d\'aquesta habilitat, %4$d %% de les qualitats de l\'arme secundària s\'aprofiten, i el cost d\'atac és el de l\'arma amb cost més alt. S\'utilitza el major dels modificadors de mal per ferir.</string>
+    <string name="skill_longdescription_fightstyle_unarmed_unarmored">Quan lluitis sense cap peça d\'armadura, arma ni escut, guanya %1$d de probabilitat d\'atac, %2$d de probabilitat de bloqueig, %3$d de resistència al mal i incrementa el màxim de mal causat en %4$d per cada nivell de l\'habilitat. Aquesta habilitat també et dóna un multiplicador crític d\'1 més 0.%5$d per cada nivell.
+\n
+\nEls objectes fets de roba no es consideren armadura.</string>
+    <string name="skill_longdescription_fightstyle_weapon_shield">Et beneficia quan lluites amb una arma a la mà principal i tens un escut o arma defensiva a la mà secundària.
+\n
+\nCada nivell d\'habilitat augmenta la probabilitat d\'atac de l\'arma principal en un %1$d %% de la original, i la probabilitat de bloqueig de l\'escut o arma defensiva en un %2$d %% de la original.</string>
+    <string name="skill_longdescription_fortitude">A cada pujada de nivell successiva, el màxim de punts de vida (PV) puja %1$d per nivells de l\'habilitat. No s\'aplica retroactivament, només té efecte en les pujades subseqüents.</string>
+    <string name="skill_longdescription_lower_exploss">Per cada nivell d\'habilitat, es redueix la quantitat d\'expèriencia perduda en morir en un %1$d %% (percentatge del valor de pèrdua d\'experiència existent, no del valor absolut). %2$d nivells anul·laran la pèrdua de punts d\'experiència en morir.</string>
+    <string name="skill_longdescription_magicfinder">Incrementa la probabilitat de trobar objectes no ordinaris en un %1$d %% per cada nivell de l\'habilitat.</string>
+    <string name="skill_longdescription_more_criticals">Cada nivell de l\'habilitat incrementa en %1$d %% qualsevol habilitat de crític aportada per l\'equipament.</string>
+    <string name="skill_longdescription_more_exp">Cada nivell de l\'habilitat incrementa la quantitat d\'experiència adquirida en vèncer monstres en un %1$d %%.</string>
+    <string name="skill_longdescription_regeneration">Gana +%1$d punts de vida (PV) per nivell de l\'habilitat cada torn que no tens monstres a tocar.</string>
+    <string name="skill_longdescription_rejuvenation">Cada torn (6 segons), hi ha una probabilitat del %1$d %% que un dels condicionats negatius baixi en una magnitud. Això aplica a tots els efectes de tipus temporal que afecten el cos: condicionants mentals com ara Desorientat, de la capacitat física com ara Fatiga i també desordres de la sang com Verí.</string>
+    <string name="skill_longdescription_resistance_blood_disorder">Baixa la probabilitat que t\'afectin desordres de la sang en un %1$d %% per cada nivell de l\'habilitat, fins a un màxim del %2$d %%. Això inclou condicionants causats per atacs de monstres com ara Verí o Ferida Sagnant.</string>
+    <string name="skill_longdescription_resistance_mental">Baixa la probabilitat de ser afectat per condicionants mentals en un %1$d %% per cada nivell de l\'habilitat fins a un màxim de %2$d %%. Això inclou condicionants causats per atacs de monstres com Aturdiment o Feblesa per Armes.</string>
+    <string name="skill_longdescription_resistance_physical_capacity">Baixa la probabilitat que t\'afligeixen les condicions que afecten la capacitat física per cada nivell de l\'habilitat en un %1$d %% fins un màxim de %2$d %%. Això inclou condicionats causats per atacs de monstres com ara Fatiga.</string>
+    <string name="skill_longdescription_shadow_bless">Baixa la probabilitat de que t\'afligeixi qualsevol tipus de condicionant en un %1$d %%. Això inclou tot tipus de condicionant causat per atacs de monstres com Verí, Confús o Fatigat.</string>
+    <string name="skill_longdescription_specialization_2hand">Incrementa el mal causat per armes a dues mans en un %1$d %% del mal original, a més dels beneficis donats per l\'habilitat d\'estil de l\'arma. Les probabilitats d\'atac d\'armes a dues mans també s\'incrementen un %2$d %% del valor original.</string>
+    <string name="skill_longdescription_specialization_dualwield">Incrementa la probabilitat d\'atac d\'ambdues armes amb un %1$d %% addicional dels seus valors originals, a més dels beneficis que dóni la pròpia habilitat d\'estil de l\'arma. Les probabilitats de bloqueig d\'ambdues armes també s\'incrementen un %2$d dels seus valors originals.</string>
+    <string name="skill_longdescription_specialization_weapon_shield">Incrementa tan les probabilitats d\'atac com el mal causat per les armes a la mà principal. La probabilitat d\'atac augmenta un %1$d %% del valor original, i el mal causat un %2$d del valor original.</string>
+    <string name="skill_longdescription_speed">Cada nivell de l\'habilitat augmenta el màxim de punts d\'acció (PA) en %1$d.</string>
+    <string name="skill_longdescription_spore_immunity">Evita permanentment que els atacs de monstres infligeixin l\'efecte de verí d\'espores.</string>
+    <string name="skill_longdescription_taunt">Quan un atacant fa un atac i falla, hi ha una probabilitat del %1$d %% que l\'atacant perdi %2$d punts d\'acció (PA). Això aplica a tots els atacs tipus melé contra tu.</string>
+    <string name="skill_longdescription_weapon_chance">A cada nivell de l\'habilitat, incrementa l\'encert en atac en un %1$d percentatge dels punts.</string>
+    <string name="skill_longdescription_weapon_dmg">Cada nivell incrementa el dany màxim en %1$d.</string>
+    <string name="skill_longdescription_weapon_prof_1hsword">Per cada nivell d\'habilitat, incrementa la possibilitat d\'atac amb estocs, espases llargues i sabres en un %1$d%% de la possibilitat d\'atac base de l\'objecte, incrementa la possibilitat de bloqueig en un %2$d%% de la possibilitat de bloqueig base de l\'objecte i incrementa l\'habilitat crítica en un %3$d%% de l\'habilitat crítica base de l\'objecte.</string>
+    <string name="skill_longdescription_weapon_prof_2hsword">Per cada nivell d\'habilitat, incrementa la possibilitat d\'atac amb espases a dues mans en un %1$d%% de la possibilitat d\'atac base de l\'objecte, incrementa la possibilitat de bloqueig en un %2$d%% de la possibilitat de bloqueig base de l\'objecte i incrementa l\'habilitat crítica en un %3$d%% de l\'habilitat crítica base de l\'objecte.</string>
+    <string name="skill_longdescription_weapon_prof_axe">Per cada nivell d\'habilitat, incrementa la possibilitat d\'atac amb destrals i grans destrals en un %1$d%% de la possibilitat d\'atac base de l\'objecte, incrementa la possibilitat de bloqueig en un %2$d%% de la possibilitat de bloqueig base de l\'objecte i incrementa l\'habilitat crítica en un %3$d%% de l\'habilitat crítica base de l\'objecte.</string>
+    <string name="skill_longdescription_weapon_prof_blunt">Per cada nivell d\'habilitat, incrementa la possibilitat d\'atac amb armes contundents en un %1$d%% de la possibilitat d\'atac base de l\'objecte, incrementa la possibilitat de bloqueig en un %2$d%% de la possibilitat de bloqueig base de l\'objecte i incrementa l\'habilitat crítica en un %3$d%% de l\'habilitat crítica base de l\'objecte.</string>
+    <string name="skill_longdescription_weapon_prof_dagger">Per cada nivell d\'habilitat, incrementa la possibilitat d\'atac amb punyals i espases curtes en un %1$d%% de la possibilitat d\'atac base de l\'objecte, incrementa la possibilitat de bloqueig en un %2$d%% de la possibilitat de bloqueig base de l\'objecte i incrementa l\'habilitat crítica en un %3$d%% de l\'habilitat crítica base de l\'objecte.</string>
+    <string name="skill_longdescription_weapon_prof_pole">Per cada nivell d\'habilitat, incrementa les probabilitats d\'atac quan utilitzis armes d\'asta (piques, llances, ...) un %1$d %% del seu valor original, incrementant també la probabilitat de bloqueig un %2$d %% del seu valor original i l\'habilitat de crítics un %3$d %% del seu valor original.</string>
+    <string name="skill_longdescription_weapon_prof_unarmed">Quan lluitis sense arma ni escut, la probabilitat d\'atac augmenta %1$d punts, el teu dany en %2$d punts i la possibilitat de bloqueig en %3$d punts, per cada nivell d\'habilitat.</string>
+    <string name="skill_number_of_increases_one">Pots escollir una habilitat per millorar.</string>
+    <string name="skill_number_of_increases_several">Pots escollir %1$d habilitats per millorar.</string>
+    <string name="skill_prerequisite_level">Per pujar aquesta habilitat, necessites com a mínim un nivell %1$d d\'experiència.</string>
+    <string name="skill_prerequisite_other_skill">Per pujar aquesta habilitat, necessites al menys tenir nivell %1$d a l\'habilitat %2$s.</string>
+    <string name="skill_prerequisite_stat">Per pujar aquesta habilitat, necessites com a mínim %1$d %2$s (a les estadístiques base).</string>
+    <string name="skill_shortdescription_armor_prof_heavy">Millor usant armadura pesada</string>
+    <string name="skill_shortdescription_armor_prof_light">Millor usant armadura lleugera</string>
+    <string name="skill_shortdescription_armor_prof_shield">Millor usant escuts i armes defensives</string>
+    <string name="skill_shortdescription_armor_prof_unarmored">Millor combatint sense armadura</string>
+    <string name="skill_shortdescription_barkskin">Resistència al dany</string>
+    <string name="skill_shortdescription_barter">Millors preus a les botigues</string>
+    <string name="skill_shortdescription_better_criticals">Major dany dels cops crítics</string>
+    <string name="skill_shortdescription_cleave">Recuperar punts d\'acció amb cada mort</string>
+    <string name="skill_shortdescription_coinfinder">Major probabilitat de trobar or</string>
+    <string name="skill_shortdescription_concussion">Probabilitat de commoció</string>
+    <string name="skill_shortdescription_crit1">Probabilitat de provocar una hemorràgia interna</string>
+    <string name="skill_shortdescription_crit2">Probabilitat de fracturar un ós</string>
+    <string name="skill_shortdescription_dodge">Major probabilitat de bloqueig</string>
+    <string name="skill_shortdescription_eater">Recupera punts de vida amb cada mort</string>
+    <string name="skill_shortdescription_evasion">Major capacitat per fugir</string>
+    <string name="skill_shortdescription_fightstyle_2hand">Millor usant armes a dues mans</string>
+    <string name="skill_shortdescription_fightstyle_dualwield">Porta dues armes alhora</string>
+    <string name="skill_shortdescription_fightstyle_unarmed_unarmored">Millor combatint sense armes/armadura</string>
+    <string name="skill_shortdescription_fightstyle_weapon_shield">Millor usant arma i escut</string>
+    <string name="skill_shortdescription_fortitude">Guanya salut amb cada pujada de nivell</string>
+    <string name="skill_shortdescription_lower_exploss">Redueix l\'experiència que es perd en morir</string>
+    <string name="skill_shortdescription_magicfinder">Més probabilitat de trobar objectes màgics</string>
+    <string name="skill_shortdescription_more_criticals">Més probabilitat de cops crítics</string>
+    <string name="skill_shortdescription_more_exp">Treure més experiència de les morts d\'enemics</string>
+    <string name="skill_shortdescription_regeneration">Guanya salut a cada torn</string>
+    <string name="skill_shortdescription_rejuvenation">Probabilitat de treure condicionants</string>
+    <string name="skill_shortdescription_resistance_blood_disorder">Resistència als desordres de la sang</string>
+    <string name="skill_shortdescription_resistance_mental">Resistència als condicionants mentals</string>
+    <string name="skill_shortdescription_resistance_physical_capacity">Resistència als condicionants de les capacitats físiques</string>
+    <string name="skill_shortdescription_shadow_bless">Resistència contra tot tipus de condicionants</string>
+    <string name="skill_shortdescription_specialization_2hand">Expert en armes a dues mans</string>
+    <string name="skill_shortdescription_specialization_dualwield">Expert en portar dues armes</string>
+    <string name="skill_shortdescription_specialization_weapon_shield">Expert en combat amb arma i escut</string>
+    <string name="skill_shortdescription_speed">Major màxim pels punts d\'acciò</string>
+    <string name="skill_shortdescription_spore_immunity">Immunitat completa al verí d\'espores</string>
+    <string name="skill_shortdescription_taunt">Els atacants perden PA quan fallen</string>
+    <string name="skill_shortdescription_weapon_chance">Major probabilitat de encertar atacant</string>
+    <string name="skill_shortdescription_weapon_dmg">Major dany infligit</string>
+    <string name="skill_shortdescription_weapon_prof_1hsword">Millor combatint amb espases d\'una mà</string>
+    <string name="skill_shortdescription_weapon_prof_2hsword">Millor combatint amb espases a dues mans</string>
+    <string name="skill_shortdescription_weapon_prof_axe">Millor combatint amb destrals</string>
+    <string name="skill_shortdescription_weapon_prof_blunt">Millor combatint amb armes contundents</string>
+    <string name="skill_shortdescription_weapon_prof_dagger">Millor combatint amb punyals</string>
+    <string name="skill_shortdescription_weapon_prof_pole">Millor combatint amb armes d\'asta</string>
+    <string name="skill_shortdescription_weapon_prof_unarmed">Millor combatint sense armes</string>
+    <string name="skill_sort_name">Nom</string>
+    <string name="skill_sort_points">Punts</string>
+    <string name="skill_sort_unlocked">Desbloquejat</string>
+    <string name="skill_sort_unsorted">Sense ordenar</string>
+    <string name="skill_title_armor_prof_heavy">Habilitat amb Armadura pesada</string>
+    <string name="skill_title_armor_prof_light">Habilitat amb Armadura lleugera</string>
+    <string name="skill_title_armor_prof_shield">Habilitat amb Escuts</string>
+    <string name="skill_title_armor_prof_unarmored">Combat sense armadura</string>
+    <string name="skill_title_barkskin">Dur de pell</string>
+    <string name="skill_title_barter">Mercader</string>
+    <string name="skill_title_better_criticals">Millors Crítics</string>
+    <string name="skill_title_cleave">Adherit</string>
+    <string name="skill_title_coinfinder">Caçatresors</string>
+    <string name="skill_title_concussion">Commoció</string>
+    <string name="skill_title_crit1">Hemorràgia interna</string>
+    <string name="skill_title_crit2">Fractura</string>
+    <string name="skill_title_dodge">Esquivador</string>
+    <string name="skill_title_eater">Menja-cadàvers</string>
+    <string name="skill_title_evasion">Evasió</string>
+    <string name="skill_title_fightstyle_2hand">Estil de combat: Arma a dues mans</string>
+    <string name="skill_title_fightstyle_dualwield">Estil de combat: Dues armes</string>
+    <string name="skill_title_fightstyle_unarmed_unarmored">Estil de combat: Camí del monjo</string>
+    <string name="skill_title_fightstyle_weapon_shield">Estil de combat: Arma i escut</string>
+    <string name="skill_title_fortitude">Fortalesa Creixent</string>
+    <string name="skill_title_lower_exploss">Bon Perdedor</string>
+    <string name="skill_title_magicfinder">Buscador de Màgia</string>
+    <string name="skill_title_more_criticals">Més crítics</string>
+    <string name="skill_title_more_exp">Eixerit</string>
+    <string name="skill_title_regeneration">Regeneración</string>
+    <string name="skill_title_rejuvenation">Rejuveniment</string>
+    <string name="skill_title_resistance_blood_disorder">Pura Sang</string>
+    <string name="skill_title_resistance_mental">Ment Forta</string>
+    <string name="skill_title_resistance_physical_capacity">Cos Resistent</string>
+    <string name="skill_title_shadow_bless">Benedicció fosca de l\'Ombra</string>
+    <string name="skill_title_specialization_2hand">Especialització: Arma a dues mans</string>
+    <string name="skill_title_specialization_dualwield">Especialització: Dues armes</string>
+    <string name="skill_title_specialization_weapon_shield">Especialització: Arma i escut</string>
+    <string name="skill_title_speed">Velocitat de Combat</string>
+    <string name="skill_title_spore_immunity">Resistència al verí d\'espores</string>
+    <string name="skill_title_taunt">Burla</string>
+    <string name="skill_title_weapon_chance">Precisió amb les armes</string>
+    <string name="skill_title_weapon_dmg">Pega-fort</string>
+    <string name="skill_title_weapon_prof_1hsword">Habilitat amb Espases d\'una mà</string>
+    <string name="skill_title_weapon_prof_2hsword">Habilitat amb Espases a dues mans</string>
+    <string name="skill_title_weapon_prof_axe">Habilitat amb Destrals</string>
+    <string name="skill_title_weapon_prof_blunt">Habilitat amb Armes contundents</string>
+    <string name="skill_title_weapon_prof_dagger">Habilitat amb Punyals</string>
+    <string name="skill_title_weapon_prof_pole">Habilitat amb Arma d\'asta</string>
+    <string name="skill_title_weapon_prof_unarmed">Combat cos a cos</string>
+    <string name="skillinfo_action_levelup">Puja el nivell</string>
+    <string name="startscreen_about">Sobre això/Ajuda</string>
+    <string name="startscreen_attention_message_slot_gets_delete_on_load">Carregar aquesta partida borrarà la seva osca. Hauràs de tornar a desar abans de canviar de joc.</string>
+    <string name="startscreen_attention_slot_gets_delete_on_load">Atenció</string>
+    <string name="startscreen_continue">Continua la partida actual</string>
+    <string name="startscreen_enterheroname">Introdueix el nom de l\'heroi</string>
+    <string name="startscreen_error_loading_empty_slot">No es pot carregar una osca buida.</string>
+    <string name="startscreen_error_loading_game">Error carregant la partida</string>
+    <string name="startscreen_game_mode">Mode</string>
+    <string name="startscreen_incompatible_savegames">Aquesta és una versió de desenvolupament d\'Andor\'s Trail. Les partides guardades per aquesta versió són incompatibles amb la versió oficial de llançament.</string>
+    <string name="startscreen_load">Carrega</string>
+    <string name="startscreen_load_game">Carregar partida</string>
+    <string name="startscreen_load_game_confirm">La partida no està desada i perdràs el teu personatge.</string>
+    <string name="startscreen_mode_10_lives">Molt difícil (10 vides, 1 desat)</string>
+    <string name="startscreen_mode_1_life">Mort permanent (1 vida, 1 desat)</string>
+    <string name="startscreen_mode_3_lives">Extrem (3 vides, 1 desat)</string>
+    <string name="startscreen_mode_50_lives">Difícil (50 vides, 1 desat)</string>
+    <string name="startscreen_mode_unlimited_lives">Mitja (Vides il·limitades, 1 desat)</string>
+    <string name="startscreen_mode_unlimited_saves_and_lives">Estàndard (Vides i desats il·limitats)</string>
+    <string name="startscreen_newgame">Nova partida</string>
+    <string name="startscreen_newgame_confirm">Perdràs la partida actual i el personatge, estàs segur que vols començar una nova partida?</string>
+    <string name="startscreen_newgame_start">Comença la partida</string>
+    <string name="startscreen_non_release_version">Aquesta és una versió de pre-llançament d\'Andor\'s Trail. És possible que les partides guardades en aquesta versió no siguin compatibles amb les de la vesió oficial de llançament.</string>
+    <string name="startscreen_selectherosprite">Escolleix el teu heroi</string>
+    <string name="status_ap">PA:</string>
+    <string name="status_exp">Nivell:</string>
+    <string name="status_hp">PV:</string>
+    <string name="storage_permissions_mandatory">L\'accés d\'emmagatzematge és obligatori perquè Andor\'s Trail pugui gestionar partides guardades i el mapa del món. Andor\'s Trail es tancarà.</string>
+    <string name="traitsinfo_attack_chance">Probabilitat en atacar:</string>
+    <string name="traitsinfo_attack_cost">Cost d\'atac (PA):</string>
+    <string name="traitsinfo_attack_damage">Dany d\'atac:</string>
+    <string name="traitsinfo_base_max_ap">Màx PA:</string>
+    <string name="traitsinfo_base_max_hp">Màx PV:</string>
+    <string name="traitsinfo_criticalhit_effectivechance">Probabilitat efectiva de cop crític:</string>
+    <string name="traitsinfo_criticalhit_multiplier">Multiplicador del cop crític:</string>
+    <string name="traitsinfo_criticalhit_skill">Probabilitat de cop crític:</string>
+    <string name="traitsinfo_defense_chance">Probabilitat de bloqueig:</string>
+    <string name="traitsinfo_defense_damageresist">Resistència al dany:</string>
+</resources>
